@@ -1,5 +1,5 @@
 Challenge 1: Student Grade Generator
-This is a simple JavaScript application that prompts the user to input student marks and outputs the corresponding grade based on the following criteria:
+This is a JavaScript application that allows the user to input student marks and outputs the results by sorting them through the following;
 
 A: Marks greater than 79
 B: Marks between 60 and 79 (both inclusive)
